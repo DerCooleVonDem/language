@@ -6,6 +6,7 @@
   "values": {
     "message.mapWillChangeInMinutes": "§aThe Map will be changed in§5 {%0}§a minutes!",
     "message.mapWillChangeInSeconds": "§aThe Map will be changed in§5 {%0}§a seconds!",
-    "message.mapWasChanged": "§aThe Map was sucessfully changed!"
+    "message.mapWasChanged": "§aThe Map was sucessfully changed!",
+    "message.youDied": "You died!"
   }
 }
