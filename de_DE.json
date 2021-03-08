@@ -2,11 +2,15 @@
   "PREFIX": "§4King§gBuild§7 »§r ",
   "localeCode": "de_DE",
   "name": "Deutsch",
+  "message.mapWillChangeInMinutes": "§aDie Map wird in§5 {%0}§a Minuten gewechselt!",
+  "message.mapWillChangeInSeconds": "§aDie Map wird in§5 {%0}§a Sekunden gewechselt!",
+  "message.mapWasChanged": "§aDie Map wurde erfolgreich gewechselt!",
+  "message.youDied": "§aDu bist gestorben",
 
   "values": {
     "message.mapWillChangeInMinutes": "§aDie Map wird in§5 {%0}§a Minuten gewechselt!",
     "message.mapWillChangeInSeconds": "§aDie Map wird in§5 {%0}§a Sekunden gewechselt!",
     "message.mapWasChanged": "§aDie Map wurde erfolgreich gewechselt!",
-    "message.youDied": "Du bist gestorben!"
+    "message.youDied": "§aDu bist gestorben"
   }
 }
