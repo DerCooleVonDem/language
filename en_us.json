@@ -1,3 +1,4 @@
 {
-  "message.youDied": "§aYou died"
+  "message.youDied": "§aYou died",
+  "ui-button.close": "Schließen"
 }
