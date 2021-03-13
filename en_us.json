@@ -1,1 +1,3 @@
-message.youDied: "Lol"
+{
+  "message.youDied": "§aYou died",
+}
