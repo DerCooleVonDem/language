@@ -1,7 +1,7 @@
 {
-	"PREFIX": "§4King§gBuild §8» §7",
+	"name": "Englisch",
+	"prefix": "§4King§gBuild §8» §7",
 	"localeCode": "en_US",
-	"name": "English",
 
 	"values": {
 		"updates.0.2": "§cNeu: \n\n§gWenn du einen monat Votest bekommst du Premium für eine Woche. §9Vote: §5https://stimomc.de/vote\n§gDu kannst nun 1 Stunde §6Premium§g an der §oChest§r§g gewinnen.",
