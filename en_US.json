@@ -1,16 +1,3 @@
 {
-  "PREFIX": "§4King§gBuild§7 »§r ",
-  "localeCode": "en_EU",
-  "name": "English",
-  "message.mapWillChangeInMinutes": "§aThe Map will be changed in§5 {%0}§a minutes!",
-  "message.mapWillChangeInSeconds": "§aThe Map will be changed in§5 {%0}§a seconds!",
-  "message.mapWasChanged": "§aThe Map was sucessfully changed!",
-  "message.youDied": "§aYou died",
-
-  "values": {
-    "message.mapWillChangeInMinutes": "§aThe Map will be changed in§5 {%0}§a minutes!",
-    "message.mapWillChangeInSeconds": "§aThe Map will be changed in§5 {%0}§a seconds!",
-    "message.mapWasChanged": "§aThe Map was sucessfully changed!",
-    "message.youDied": "§aYou died"
-  }
+  "message.youDied": "§aYou died"
 }
