@@ -121,6 +121,13 @@
     "ui.title.stats": "Stats",
     "ui.title.teleporter": "Teleporter",
 
+    "ui.title.shop.buildffa": "§6Build§cFFA§8 |§7 Shop",
+    "ui.text.shop.buildffa": "Here you can buy cool §6Build§cFFA§r gadgets",
+    "ui.button.shop.buildffa.enderpearls": "§72x§3 Enderpearls",
+    "ui.button.shop.buildffa.booster": "§71x§3 Leaper",
+    "ui.button.shop.buildffa.plattform": "§71x§3 Plattform",
+    "ui.button.shop.buildffa.medicine": "§71x§3 Medicine",
+
     "ui.text.confirmation": "§l§eConfirmation§r",
     "ui.text.select_option": "§3Please select a Option.",
     "ui.text.select_player": "§3Please select a player.",
