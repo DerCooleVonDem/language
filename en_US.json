@@ -174,7 +174,7 @@
     "item.join.unranked.queue": "§aJoin§c Unranked§a Queue",
     "item.leave.unranked.queue": "§cLeave§c Unranked§c Queue",
     "item.spectate": "§7Spectate",
-    "item.stats.gray": "§7Challange",
+    "item.stats.gray": "§7Stats",
     "item.stick": "§6Custom Stick",
 
     "betterSpectator.chatFormat": "§8[§7SPECTATE§8] §7{0} §8> §7{1}",
