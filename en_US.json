@@ -222,8 +222,8 @@
     "vanish.disabled.other": "{PREFIX}Vanish was §cdisabled§7 for §b{0}§7.",
     "vanish.actionBarMessage": "§aYou are in vanish.",
 
-    "mlgrush.game.start.ranked": "§7--------------------{0}§7Enemy:§1 {1}{0}§7Map:§a {2}§7Mode:§a RANKED{0}§7--------------------{0}The mode is§a Ranked§7. The game ends after 10 rounds!",
-    "mlgrush.game.start.unranked": "§7--------------------{0}§7Enemy:§1 {1}{0}§7Map:§a {2}§7Mode:§c UNRANKED{0}§7--------------------{0}The mode is§c Normal§7. The game ends when one of them leaves the round!",
+    "mlgrush.game.start.ranked": "§7--------------------{0}§7Enemy:§1 {1}{0}§7Map:§a {2}{0}§7Mode:§a RANKED{0}§7--------------------{0}The mode is§a Ranked§7. The game ends after 10 rounds!",
+    "mlgrush.game.start.unranked": "§7--------------------{0}§7Enemy:§1 {1}{0}§7Map:§a {2}{0}§7Mode:§c UNRANKED{0}§7--------------------{0}The mode is§c Normal§7. The game ends when one of them leaves the round!",
     "mlgrush.message.youWin.ranked": "{0}§r§aYou won the match against§r§c {1}§r§a, you will receive§6 30§a coins!",
     "mlgrush.message.youWin.unranked": "{0}§r§aYou won the match against§r§c {1}§r§a, you will receive§6 15§a coins!",
     "mlgrush.message.youWin.enemy.leave.ranked": "{0}§r§c{1}§a left the match, you won the match, you will receive§6 30§a coins!",
@@ -235,6 +235,7 @@
     "mlgrush.you.breaked.the.bed.ranked": "{0}§r§aYou destroyed the bed from§r§c {1}§r§a, you get§6 10§a Coins!",
     "mlgrush.you.breaked.the.bed.unranked": "{0}§r§aYou destroyed the bed from§r§c {1}§r§a, you get§6 10§a Coins!",
     "mlgrush.your.bed.was.breaked.ranked": "{0}§r§cYou bed was destroyed by§r§c {1}§r§c, you lose§6 5§c Coins!",
+    "mlgrush.your.bed.was.breaked.unranked": "{0}§r§cYou bed was destroyed by§r§c {1}§r§c!",
     "mlgrush.cant.break.own.bed": "{0}§r§cYou can't break you own bed!",
     "mlgrush.match.is.a.draw": "{0}§r§cThe game is tied, the next player to score wins!",
     "mlgrush.popup.maximum.placeheight": "{0}§r§cMaximum Placeheight reached!",
