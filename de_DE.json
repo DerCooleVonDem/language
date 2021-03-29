@@ -222,8 +222,8 @@
     "vanish.disabled.other": "{PREFIX}Vanish wurde für §b{0} §cdeaktiviert§7.",
     "vanish.actionBarMessage": "§aDu bist im vanish.",
 
-    "mlgrush.game.start.ranked": "§7--------------------{0}§7Gegner:§1§r {1}{0}§7Karte:§a {2}§7Modus:§a RANKED{0}§7--------------------{0}Der Modus ist§a Ranked§7. Das Spiel endet nach 10 Runden!",
-    "mlgrush.game.start.unranked": "§7--------------------{0}§7Gegner:§1§r {1}{0}§7Karte:§a {2}§7Modus:§c NORMAL{0}§7--------------------{0}Der Modus ist§c Normal§7. Das Spiel endet wenn einer die Runde verlässt!",
+    "mlgrush.game.start.ranked": "§7--------------------{0}§7Gegner:§1§r {1}{0}§7Karte:§a {2}{0}§7Modus:§a RANKED{0}§7--------------------{0}Der Modus ist§a Ranked§7. Das Spiel endet nach 10 Runden!",
+    "mlgrush.game.start.unranked": "§7--------------------{0}§7Gegner:§1§r {1}{0}§7Karte:§a {2}{0}§7Modus:§c NORMAL{0}§7--------------------{0}Der Modus ist§c Normal§7. Das Spiel endet wenn einer die Runde verlässt!",
     "mlgrush.message.youWin.ranked": "{0}§r§aDu hast die Runde gegen§r§c {1}§r§a gewonnen, du erhälst§6 30§a Coins!",
     "mlgrush.message.youWin.unranked": "{0}§r§aDu hast die Runde gegen§r§c {1}§r§a gewonnen, du erhälst§6 15§a Coins!",
     "mlgrush.message.youWin.enemy.leave.ranked": "{0}§r§c{1}§r§a hat die Runde verlassen, du hast die Runde gewonnen, du erhälst§6 30§a Coins!",
