@@ -112,6 +112,18 @@
     "message.mapWillChangeInMinutes": "The map will changed in {0} minutes",
     "message.mapWasChanged": "The map was sucessfully changed!",
 
+    "message.pleaseWait.seconds": "Please wait {0} seconds.",
+    "message.haveNotUnlocked.gadget": "You haven't unlocked this gadget yet, soon you can buy it.",
+    "message.haveNotUnlocked.head": "You haven't unlocked these head yet, soon you can buy them.",
+    "message.haveNotUnlocked.particle": "You haven't unlocked these particles yet, soon you can buy them.",
+    "message.haveNotUnlocked.skins": "You haven't unlocked these Skin yet, soon you can buy them.",
+    "message.haveNotUnlocked.trails": "You haven't unlocked these trails yet, soon you can buy them.",
+    "message.haveNotUnlocked.capes": "You haven't unlocked these Cape yet, soon you can buy them.",
+    "message.haveNotUnlocked.skinCosmetics": "You haven't unlocked these Cosmetics yet, soon you can buy them",
+
+    "popup.skinReset": "Skin was reseted",
+    "popup.waiting.for.enemy": "Waiting for an Enemy...",
+
     "scoreboard.starting.soon": "§cWaiting for players  ",
     "scoreboard.starting.in": "§aStart in {0}",
     "scoreboard.playersLeft": "§c{0} players left.",
@@ -176,6 +188,16 @@
     "item.spectate": "§7Spectate",
     "item.stats.gray": "§7Stats",
     "item.stick": "§6Custom Stick",
+    "item.block": "§6Custom Block§7 (Soon)",
+
+    "item.informations": "§6Informations",
+    "item.profile": "§dProfile",
+    "item.fly.on": "Fly§a ON",
+    "item.fly.off": "Fly§c OFF",
+    "item.back": "§cBack",
+    "item.lightningstick": "§6Lightning Stick",
+    "item.leaper": "§6Leaper",
+    "item.grapplinghook": "§6GrapplingHook",
 
     "betterSpectator.chatFormat": "§8[§7SPECTATE§8] §7{0} §8> §7{1}",
     "betterSpectator.item.teleportToPlayer.name": "§r§l§eTeleport to Player§r",
@@ -240,7 +262,6 @@
     "mlgrush.match.is.a.draw": "{0}§r§cThe game is tied, the next player to score wins!",
     "mlgrush.popup.maximum.placeheight": "{0}§r§cMaximum Placeheight reached!",
     "mlgrush.popup.spawn.protection": "{0}§r§cSpawn protection!",
-    "mlgrush.popup.waiting.for.enemy": "§rWaiting for an Enemy...",
     "mlgrush.you.are.already.in.queue": "{0}§r§cYou are already in a match, please leave the match (/leave) before you enter the queue",
     "mlgrush.sort.inventory.error": "{0}§r§7Error!",
     "mlgrush.sort.inventory.successfully": "{0}§r§aYour inventory was successfully saved!",
