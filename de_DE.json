@@ -126,6 +126,7 @@
     "message.yourSkinIsInvisible": "Bitte benutze keine Skins die Unsichtbar sind, da die anderen Spieler dich sonst nicht sehen können!",
     "message.kick.yourSkinIsInvisible": "Dein Skin ist unsichtbar!",
     "message.cannotMsgYourSelf": "Du kannst dir nicht selbst schreiben!",
+    "message.you": "Dich",
 
     "popup.skinReset": "Skin erfolgreich Resetet",
     "popup.waiting.for.enemy": "Warte auf einen Gegner...",
