@@ -126,6 +126,7 @@
     "message.yourSkinIsInvisible": "Please don't use skins that are Invisible, otherwise the other players won't be able to see you!",
     "message.kick.yourSkinIsInvisible": "Your skin is invisible!",
     "message.cannotMsgYourSelf": "You cant send yourself a msg!",
+    "message.you": "You",
 
     "popup.skinReset": "Skin was reseted",
     "popup.waiting.for.enemy": "Waiting for an Enemy...",
