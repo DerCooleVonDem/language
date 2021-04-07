@@ -121,6 +121,12 @@
     "message.haveNotUnlocked.capes": "You haven't unlocked these Cape yet, soon you can buy them.",
     "message.haveNotUnlocked.skinCosmetics": "You haven't unlocked these Cosmetics yet, soon you can buy them",
 
+    "message.yourSkinIsToBig": "Please do not use skins that have more than 64 pixels, otherwise there may be errors on the server!",
+    "message.kick.yourSkinIsToBig": "Your skin is to big!",
+    "message.yourSkinIsInvisible": "Please don't use skins that are Invisible, otherwise the other players won't be able to see you!",
+    "message.kick.yourSkinIsInvisible": "Your skin is invisible!",
+    "message.cannotMsgYourSelf": "You cant send yourself a msg!",
+
     "popup.skinReset": "Skin was reseted",
     "popup.waiting.for.enemy": "Waiting for an Enemy...",
 
