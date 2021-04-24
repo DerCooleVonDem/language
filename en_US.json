@@ -128,6 +128,11 @@
     "message.yourSkinIsInvisible": "Please don't use skins that are Invisible, otherwise the other players won't be able to see you!",
     "message.kick.yourSkinIsInvisible": "Your skin is invisible!",
 
+    "message.alreadyInTeam": "{PREFIX}§cYou are already in this §dTeam§8!",
+    "message.teamIsFull": "{PREFIX}§cThis §dTeam§c is already full§8!",
+    "message.teamHasMoreMembers": "{PREFIX}§cThis§d Team§c has more members than your team!",
+    "message.onlyTwoPlayersOn": "{PREFIX}§cSince there are only 2 players online, you cannot change your team!",
+
     "message.yourVoteIsAlreadyProcessing": "{PREFIX}§cYour vote is already processing, please wait a moment.",
     "message.alreadyVoted": "{PREFIX}§cYou have already voted today!",
     "message.youHaveNotVotedToday": "{PREFIX}§cYou have not voted today. You can vote at§5 https://kingbuild.de/vote§c.",
@@ -138,6 +143,7 @@
     "message.cannotUnBlockYourSelf": "{PREFIX}§cYou cannot unblock yourself!",
     "message.you1": "You",
     "message.you2": "You",
+    "message.noReplys": "{PREFIX}§cYou have not yet received a message to get an answer to!",
     "message.youAreBlocked": "{PREFIX}§3{0}§c blocked you!",
     "message.youHaveBlocked": "{PREFIX}§cYou have blocked§3 {0}§c!",
     "message.successfullyBlockedPlayer": "{PREFIX}§aYou have successfully blocked§3 {0}§a!",
@@ -202,6 +208,7 @@
     "languageApi.wasUpdated": "{PREFIX}Language was set to §f{0} §7.",
 
     "item.start": "§eStart",
+    "item.skip": "§eSkip Countdown",
     "item.backToHub": "§4Back to Hub",
     "item.stats": "§bStats",
     "item.chooseTeam": "§eSelect a Team",
