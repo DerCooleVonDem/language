@@ -66,6 +66,7 @@
     "message.gameIsNotStarting": "{PREFIX}§cDu kannst den Countdown noch nicht verkürzen.",
     "message.gameWasAlreadySkipped": "{PREFIX}§cDie Countdown wurde bereits verkürzt.",
     "message.gameWasSkipped": "{PREFIX}Du hast den Countdown verkürzt.",
+    "message.youHaveTranslated": "{PREFIX}§aDie Übersetzung des textes von§5 {0}§a zu§5 {1}§a ist:§6 {3}",
     "message.playerNotOnline": "{PREFIX}§cDieser Spieler ist gerade nicht Online.",
     "message.playerNotFound": "{PREFIX}§cDieser Spieler wurde nicht gefunden.",
     "message.onlyPlayers": "{PREFIX}§cNur für Spieler.",
@@ -213,6 +214,9 @@
     "item.stats": "§bStatistiken",
     "item.chooseTeam": "§eTeam auswählen",
 
+    "item.lasertag.lasergun": "§6LaserGun",
+    "item.lasertag.mine": "§cMine",
+
     "item.challenge": "§7Herausfordern",
     "item.hub": "§4Zurück zum Hub",
     "item.sort.inventory": "§7Inventar Sortieren",
@@ -233,6 +237,10 @@
     "item.lightningstick": "§6Blitz Stab",
     "item.leaper": "§6Booster",
     "item.grapplinghook": "§6Enterhaken",
+
+    "item.lobbyTrain.leave": "§cAussteigen",
+    "item.lobbyTrain.horn": "§6Horn",
+    "item.lobbyTrain.bost": "§6Boost",
 
     "betterSpectator.chatFormat": "§8[§7ZUSCHAUER§8] §7{0} §8> §7{1}",
     "betterSpectator.item.teleportToPlayer.name": "§r§l§eTeleport zum Spieler§r",
@@ -269,6 +277,8 @@
     "cores.onTeamChoose": "{PREFIX}§aDu hast Team {0}§a betreten.",
     "cores.breakOwnCore": "§cDu kannst deinen eigenen Core nicht zerstören!",
     "cores.coreWasDestroyed": "{0} §7hat den {2} §7von {1} §7zerstört.",
+
+    "lasertag.subtitle.win": "§aTeam §f{0}{1}§a hat§c LaserTag§a gewonnen",
 
     "lobby.flyWasEnabled": "{PREFIX}Fly wurde §aaktiviert§7.",
     "lobby.flyWasDisabled": "{PREFIX}Fly wurde §cdeaktiviert§7.",
