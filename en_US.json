@@ -94,8 +94,8 @@
     "message.registeredPlayers": "{PREFIX}Momentan sind §e{0}§7 Spieler auf KingBuild registriert.",
 
     "message.youKilledByHealth": "§cYou was killed by§5 {0}§7 (§b{1}§7/20)",
-    "message.youDied": "You died!",
-    "message.youKilled": "You have killed {0}",
+    "message.youDied": "§cYou died!",
+    "message.youKilled": "§aYou have killed{0} {1}",
     "message.killstreak": "{0} has reached a killstreak of {1}!",
     "message.blocksAreUnderYou": "Unter dir sind Blöcke, weshalb du die Rettungslattform nicht nutzen kannst!",
 
