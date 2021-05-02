@@ -61,6 +61,7 @@
     "coinmanager.addCoins": "{PREFIX}Du hast §b{0} {1} §b{2}§7 gegeben.",
     "coinmanager.removeCoins": "{PREFIX}Du hast §b{0} {1}§7 von §b{2}§7 entfernt.",
 
+    "message.gameHasStarted": "§aThe match has started!{0}§7------------------------{0}§6Team:{0} §8»{1}{0}§6Map: §8»§a{2}{0}§6Shot cooldown: §8»§a{3}§7s{0}§8------------------------",
     "message.allMapsAreFull": "All Maps are full! Please wait a moment",
     "message.serverIsRestarting": "{PREFIX}§cThe Server is restarting.",
     "message.gameIsNotStarting": "{PREFIX}§cDu kannst den Countdown noch nicht verkürzen.",
@@ -92,13 +93,12 @@
     "message.noPermission": "{PREFIX}§cYou dont have the permission for that.",
     "message.noPermissionToUseCommand": "{PREFIX}§cYou dont have the permission to use this command.",
     "message.registeredPlayers": "{PREFIX}Momentan sind §e{0}§7 Spieler auf KingBuild registriert.",
-
     "message.youKilledByHealth": "§cYou was killed by§5 {0}§7 (§b{1}§7/20)",
+    "message.youWasKilledByGadget": "§cYou was killed by§5 {0}'s§6 {2}",
     "message.youDied": "§cYou died!",
     "message.youKilled": "§aYou have killed{0} {1}",
     "message.killstreak": "{0} has reached a killstreak of {1}!",
     "message.blocksAreUnderYou": "Unter dir sind Blöcke, weshalb du die Rettungslattform nicht nutzen kannst!",
-
     "message.teamingEnabled": "You have succesfully enabled Teams!",
     "message.teamingDisabled": "You have succesfully disabled Teams!",
     "message.invitedFrom": "You got invited from {0}",
@@ -110,11 +110,9 @@
     "message.acceptInvite": "{0} have acceped the Team invite",
     "message.noInvite": "You have no Team invites!",
     "message.denyInvite": "You have successfully rejected the team invitation from {0}",
-
     "message.mapWillChangeInSeconds": "The map will changed in {0} seconds",
     "message.mapWillChangeInMinutes": "The map will changed in {0} minutes",
     "message.mapWasChanged": "The map was sucessfully changed!",
-
     "message.pleaseWait.seconds": "Please wait {0} seconds.",
     "message.haveNotUnlocked.gadget": "{PREFIX}You haven't unlocked this gadget yet, soon you can buy it.",
     "message.haveNotUnlocked.head": "{PREFIX}You haven't unlocked these head yet, soon you can buy them.",
@@ -123,22 +121,18 @@
     "message.haveNotUnlocked.trails": "{PREFIX}You haven't unlocked these trails yet, soon you can buy them.",
     "message.haveNotUnlocked.capes": "{PREFIX}You haven't unlocked these Cape yet, soon you can buy them.",
     "message.haveNotUnlocked.skinCosmetics": "{PREFIX}You haven't unlocked these Cosmetics yet, soon you can buy them",
-
     "message.yourSkinIsToBig": "Please do not use skins that have more than 64 pixels, otherwise there may be errors on the server!",
     "message.kick.yourSkinIsToBig": "Your skin is to big!",
     "message.yourSkinIsInvisible": "Please don't use skins that are Invisible, otherwise the other players won't be able to see you!",
     "message.kick.yourSkinIsInvisible": "Your skin is invisible!",
-
     "message.alreadyInTeam": "{PREFIX}§cYou are already in this §dTeam§8!",
     "message.teamIsFull": "{PREFIX}§cThis §dTeam§c is already full§8!",
     "message.teamHasMoreMembers": "{PREFIX}§cThis§d Team§c has more members than your team!",
     "message.onlyTwoPlayersOn": "{PREFIX}§cSince there are only 2 players online, you cannot change your team!",
-
     "message.yourVoteIsAlreadyProcessing": "{PREFIX}§cYour vote is already processing, please wait a moment.",
     "message.alreadyVoted": "{PREFIX}§cYou have already voted today!",
     "message.youHaveNotVotedToday": "{PREFIX}§cYou have not voted today. You can vote at§5 https://kingbuild.de/vote§c.",
     "message.topVotersMonth": "{PREFIX}§aTop Votes This Month",
-
     "message.cannotMsgYourSelf": "{PREFIX}§cYou cannot send yourself a msg!",
     "message.cannotBlockYourSelf": "{PREFIX}§cYou cannot block yourself!",
     "message.cannotUnBlockYourSelf": "{PREFIX}§cYou cannot unblock yourself!",
@@ -153,11 +147,17 @@
     "message.youGotUnBlockedFrom": "{PREFIX}§aYou got unblocked from§3 {0}",
     "message.alreadyBlockedPlayer": "{PREFIX}§cYou have already blocked§3 {0}§c!",
     "message.playerIsNotBlocked": "{PREFIX}§cYour have not blocked§3 {0}§c!",
+    "message.alreadyCooldownVoted": "§cYou have already voted for a cooldown!",
+    "message.timeIsUpForChoose": "§cThe time to select a team is over.",
+    "message.successfullyVoted": "§aYou have successfully voted for a§e {0} §asecond{1} shot cooldown!\n",
+    "messsage.randomError": "{PREFIX}§cError, something went wrong! Error: {0}",
 
     "chatformat.blocked": "§7[§cBlocked§7]",
 
     "popup.skinReset": "Skin was reseted",
     "popup.waiting.for.enemy": "Waiting for an Enemy...",
+
+    "majority": "s",
 
     "scoreboard.starting.soon": "§cWaiting for players  ",
     "scoreboard.starting.in": "§aStart in {0}",
@@ -167,13 +167,8 @@
     "ui.title.enchanting": "Enchant",
     "ui.title.stats": "Stats",
     "ui.title.teleporter": "Teleporter",
-
     "ui.title.shop.buildffa": "§6Build§cFFA§8 |§7 Shop",
-    "ui.text.shop.buildffa": "Here you can buy cool §6Build§cFFA§r gadgets",
-    "ui.button.shop.buildffa.enderpearls": "§72x§3 Enderpearls",
-    "ui.button.shop.buildffa.booster": "§71x§3 Leaper",
-    "ui.button.shop.buildffa.plattform": "§71x§3 Plattform",
-    "ui.button.shop.buildffa.medicine": "§71x§3 Medicine",
+    "ui.title.voteCooldown": "§aVote§8 |§e Schuss-Cooldown",
 
     "ui.text.confirmation": "§l§eConfirmation§r",
     "ui.text.select_option": "§3Please select a Option.",
@@ -181,17 +176,25 @@
     "ui.text.chooseMessageUi": "§3Please select a message.",
     "ui.text.input_player": "§3Please specify a player.",
     "ui.text.selectLanguage": "§3Please select a language.",
+    "ui.text.stats.lasertag": "§eRounds: §9{0}\n§eKills: §9{1}\n§eDeaths: §9{2}\n§eK/D: §9{3}\n§eWins: §9{4}\n§eDefeats: §9{5}",
     "ui.text.stats.mlgrush": "§eRounds: §9{0}\n§eKills: §9{1}\n§eDeaths: §9{2}\n§eK/D: §9{3}\n§eWins: §9{4}\n§eDefeats: §9{5}\n\n§eWin-Chance: §9{6}",
     "ui.text.stats.getdown": "§eRounds: §9{0}\n§eKills: §9{1}\n§eDeaths: §9{2}\n§eK/D: §9{3}\n§eWins: §9{4}\n§eDefeats: §9{5}\n\n§eWin-Chance: §9{6}",
     "ui.text.stats.cores": "§eRounds: §9{0}\n§eKills: §9{1}\n§eDeaths: §9{2}\n§eK/D: §9{3}\n§eWins: §9{4}\n§eDefeats: §9{5}\n§eBreaked Cores: §9{6}\n\n§eWin-Chance: §9{7}",
     "ui.text.chooseColor": "§3Please select a color.",
     "ui.text.yourCoins": "§9Your Coins §c{0}",
     "ui.text.noPlayersFound": "§cNo players were found!",
+    "ui.text.shop.buildffa": "Here you can buy cool §6Build§cFFA§r gadgets",
+    "ui.text.voteCooldown": "Vote the Reload time for the LaserGun",
 
     "ui.button.close": "§cClose",
     "ui.button.back": "§cBack",
     "ui.button.selectPlus": "Plus change",
     "ui.button.selectMinus": "Minus change",
+    "ui.button.voteCooldown": "§e{0}§7 Second{1}",
+    "ui.button.shop.buildffa.enderpearls": "§72x§3 Enderpearls",
+    "ui.button.shop.buildffa.booster": "§71x§3 Leaper",
+    "ui.button.shop.buildffa.plattform": "§71x§3 Plattform",
+    "ui.button.shop.buildffa.medicine": "§71x§3 Medicine",
 
     "reason.toMuchCps": "You have to much Cps!",
 
@@ -213,6 +216,7 @@
     "item.backToHub": "§4Back to Hub",
     "item.stats": "§bStats",
     "item.chooseTeam": "§eSelect a Team",
+    "item.cooldown": "§aVote §eShot cooldown",
 
     "item.lasertag.lasergun": "§6LaserGun",
     "item.lasertag.mine": "§cMine",
