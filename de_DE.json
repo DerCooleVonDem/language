@@ -60,6 +60,7 @@
     "coinmanager.addCoins": "{PREFIX}Du hast §b{0} {1} §b{2}§7 gegeben.",
     "coinmanager.removeCoins": "{PREFIX}Du hast §b{0} {1}§7 von §b{2}§7 entfernt.",
 
+    "message.setupNeedet": "§cEs wurde noch kein Setup für diesen Spielmodus festgelegt.",
     "message.gameHasStarted": "{5}§aDie Runde hat begonnen!{0}§8------------------------{0}§6Team:{0} §8»{1}{0}§6Map:{0} §8»§a{2}{0}§6Schuss Cooldown:{0} §8»§a{3}§7s{0}§8------------------------",
     "message.allMapsAreFull": "Es sind zur Zeit alle Maps voll! Bitte warte einen Moment",
     "message.serverIsRestarting": "{PREFIX}§cDieser Server restartet gerade.",
