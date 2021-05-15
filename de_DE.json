@@ -1,5 +1,6 @@
 {
   "name": "Deutsch",
+  "emoji": "\u{E108}",
   "prefix": "§4King§gBuild §8» §7",
   "localeCode": "de_DE",
 
@@ -62,7 +63,7 @@
 
     "message.setupNeedet": "§cEs wurde noch kein Setup für diesen Spielmodus festgelegt.",
     "message.teamWin": "{0}§aTeam {1}{2}§a hat die Runde mit {1}{3}§a Kills gewonnen!",
-    "message.gameHasStarted": "{0}§aDie Runde hat begonnen!{1}§8------------------------{1}§6Team:{1} §8»{3}{0}§6Map:{1} §8»§a{4}{1}§6Schuss Cooldown:{1} §8»§a{5}§7s{1}§8------------------------",
+    "message.gameHasStarted": "{0}§aDie Runde hat begonnen!{1}§8------------------------{1}§6Team:{1} §8»{2}{1}§6Map:{1} §8»§a{3}{1}§6Schuss Cooldown:{1} §8»§a{4}§7s{1}§8------------------------",
     "message.allMapsAreFull": "Es sind zur Zeit alle Maps voll! Bitte warte einen Moment",
     "message.serverIsRestarting": "{PREFIX}§cDieser Server restartet gerade.",
     "message.gameIsNotStarting": "{0}§cDu kannst den Countdown noch nicht verkürzen.",
@@ -99,7 +100,7 @@
     "message.youWasKilledByGadget": "{0}§cDu wurdest von§5 {1}'s§6 {2}§c getötet",
     "message.youKilledWithGadget": "{0}§aDu hast§5 {1}§a mit dem Gadget§6 {2}§a getötet",
     "message.youDied": "§cDu bist gestorben",
-    "message.youKilled": "{0}§aDu hast {1}{2} getötet",
+    "message.youKilled": "{0}§aDu hast {1}§a getötet!",
     "message.killstreak": "{0} hat eine Killstreak von {1} erreicht!",
     "message.blocksAreUnderYou": "Unter dir sind Blöcke, weshalb du die Rettungslattform nicht nutzen kannst!",
     "message.teamingEnabled": "Du hast Teams erfolgreich aktiviert!",
@@ -162,7 +163,7 @@
 
     "majority": "n",
 
-    "scoreboard.starting.soon": "§cWarte auf Spieler  ",
+    "scoreboard.starting.soon": "§cWarte auf Spieler",
     "scoreboard.starting.in": "§aStart in {0}",
     "scoreboard.playersLeft": "§c{0} Spieler übrig.",
 
