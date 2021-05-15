@@ -1,5 +1,6 @@
 {
   "name": "English",
+  "emoji": "\u{E109}",
   "prefix": "§4King§gBuild §8» §7",
   "localeCode": "en_US",
 
@@ -63,7 +64,7 @@
 
     "message.setupNeedet": "§cNo setup was selected for this gamemode.",
     "message.teamWin": "{0}§aTeam {1}{2}§a has win the match with {1}{3}§a kills!",
-    "message.gameHasStarted": "{0}§aThe match has started!{1}§8------------------------{1}§6Team:{1} §8»{3}{0}§6Map:{1} §8»§a{4}{1}§6Shot cooldown:{1} §8»§a{5}§7s{1}§8------------------------",
+    "message.gameHasStarted": "{0}§a§aThe match has started!{1}§8------------------------{1}§6Team:{1} §8»{2}{1}§6Map:{1} §8»§a{3}{1}§6Shot cooldown:{1} §8»§a{4}§7s{1}§8------------------------",
     "message.allMapsAreFull": "All Maps are full! Please wait a moment",
     "message.serverIsRestarting": "{PREFIX}§cThe Server is restarting.",
     "message.gameIsNotStarting": "{0}§cYou can't skip the countdown yet.",
@@ -99,7 +100,7 @@
     "message.youWasKilledByGadget": "{0}§cYou was killed by§5 {1}'s§6 {2}",
     "message.youKilledWithGadget": "{0}§aYou have killed§5 {1}§a with the gadget§6 {2}",
     "message.youDied": "§cYou died!",
-    "message.youKilled": "{0}§aYou have killed{1} {2}",
+    "message.youKilled": "{0}§aYou have killed {1}§a!",
     "message.killstreak": "{0} has reached a killstreak of {1}!",
     "message.blocksAreUnderYou": "Unter dir sind Blöcke, weshalb du die Rettungslattform nicht nutzen kannst!",
     "message.teamingEnabled": "You have succesfully enabled Teams!",
