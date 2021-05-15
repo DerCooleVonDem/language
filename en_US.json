@@ -1,5 +1,6 @@
 {
   "name": "English",
+  "emoji": "\u{E109}",
   "prefix": "§4King§gBuild §8» §7",
   "localeCode": "en_US",
 
@@ -62,7 +63,8 @@
     "coinmanager.removeCoins": "{PREFIX}Du hast §b{0} {1}§7 von §b{2}§7 entfernt.",
 
     "message.setupNeedet": "§cNo setup was selected for this gamemode.",
-    "message.gameHasStarted": "{5}§aThe match has started!{0}§7------------------------{0}§6Team:{0} §8»{1}{0}§6Map:{0} §8»§a{2}{0}§6Shot cooldown:{0} §8»§a{3}§7s{0}§8------------------------",
+    "message.teamWin": "{0}§aTeam {1}{2}§a has win the match with {1}{3}§a kills!",
+    "message.gameHasStarted": "{0}§aThe match has started!{1}§8------------------------{1}§6Team:{1} §8»{3}{0}§6Map:{1} §8»§a{4}{1}§6Shot cooldown:{1} §8»§a{5}§7s{1}§8------------------------",
     "message.allMapsAreFull": "All Maps are full! Please wait a moment",
     "message.serverIsRestarting": "{PREFIX}§cThe Server is restarting.",
     "message.gameIsNotStarting": "{0}§cYou can't skip the countdown yet.",
@@ -151,7 +153,7 @@
     "message.playerIsNotBlocked": "{PREFIX}§cYour have not blocked§3 {0}§c!",
     "message.alreadyCooldownVoted": "{0}§cYou have already voted for a cooldown!",
     "message.timeIsUpForChoose": "{0}§cThe time to select a team is over.",
-    "message.successfullyVoted": "{0}§aYou have successfully voted for a§e {1} §asecond{2} shot cooldown!\n",
+    "message.successfullyVoted": "{0}§aYou have successfully voted for a§e {1} §asecond{2} shot cooldown!",
     "messsage.randomError": "{PREFIX}§cError, something went wrong! Error: {0}",
 
     "chatformat.blocked": "§7[§cBlocked§7]",
@@ -284,7 +286,7 @@
     "cores.breakOwnCore": "§cYou can't break you own Core!",
     "cores.coreWasDestroyed": "{0} §7has distroyed the {2} §7from {1}§7.",
 
-    "lasertag.subtitle.win": "§aTeam §f{0}{1}§a has Win§c LaserTag",
+    "lasertag.subtitle.win": "§aTeam §f{0}{1}§a has Win§c LaserTag{2}{0}{3}§7/{4}{5}§a Kills",
 
     "lobby.flyWasEnabled": "{PREFIX}Fly was §aactivated§7.",
     "lobby.flyWasDisabled": "{PREFIX}Fly was §cdeactivated§7.",
