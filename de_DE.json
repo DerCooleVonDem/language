@@ -1,5 +1,6 @@
 {
   "name": "Deutsch",
+  "emoji": "\u{E108}",
   "prefix": "§4King§gBuild §8» §7",
   "localeCode": "de_DE",
 
@@ -61,7 +62,8 @@
     "coinmanager.removeCoins": "{PREFIX}Du hast §b{0} {1}§7 von §b{2}§7 entfernt.",
 
     "message.setupNeedet": "§cEs wurde noch kein Setup für diesen Spielmodus festgelegt.",
-    "message.gameHasStarted": "{5}§aDie Runde hat begonnen!{0}§8------------------------{0}§6Team:{0} §8»{1}{0}§6Map:{0} §8»§a{2}{0}§6Schuss Cooldown:{0} §8»§a{3}§7s{0}§8------------------------",
+    "message.teamWin": "{0}§aTeam {1}{2}§a hat die Runde mit {1}{3}§a Kills gewonnen!",
+    "message.gameHasStarted": "{0}§aDie Runde hat begonnen!{1}§8------------------------{1}§6Team:{1} §8»{3}{0}§6Map:{1} §8»§a{4}{1}§6Schuss Cooldown:{1} §8»§a{5}§7s{1}§8------------------------",
     "message.allMapsAreFull": "Es sind zur Zeit alle Maps voll! Bitte warte einen Moment",
     "message.serverIsRestarting": "{PREFIX}§cDieser Server restartet gerade.",
     "message.gameIsNotStarting": "{0}§cDu kannst den Countdown noch nicht verkürzen.",
@@ -284,7 +286,7 @@
     "cores.breakOwnCore": "§cDu kannst deinen eigenen Core nicht zerstören!",
     "cores.coreWasDestroyed": "{0} §7hat den {2} §7von {1} §7zerstört.",
 
-    "lasertag.subtitle.win": "§aTeam §f{0}{1}§a hat§c LaserTag§a gewonnen",
+    "lasertag.subtitle.win": "§aTeam §f{0}{1}§a hat§c LaserTag§a gewonnen{2}{0}{3}§7/{4}{5}§a Kills",
 
     "lobby.flyWasEnabled": "{PREFIX}Fly wurde §aaktiviert§7.",
     "lobby.flyWasDisabled": "{PREFIX}Fly wurde §cdeaktiviert§7.",
