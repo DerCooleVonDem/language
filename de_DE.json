@@ -1,5 +1,6 @@
 {
   "name": "Deutsch",
+  "emoji": "\u{E108}",
   "prefix": "§4King§gBuild §8» §7",
   "localeCode": "de_DE",
 
@@ -286,6 +287,7 @@
     "cores.coreWasDestroyed": "{0} §7hat den {2} §7von {1} §7zerstört.",
 
     "lasertag.subtitle.win": "§aTeam §f{0}{1}§a hat§c LaserTag§a gewonnen{2}{0}{3}§7/{4}{5}§a Kills",
+    "lasertag.subtitle.draw": "§cGleichstand! Kein Team gewinnt.{0}§c{1}§7/§1{2}§a Kills",
 
     "lobby.flyWasEnabled": "{PREFIX}Fly wurde §aaktiviert§7.",
     "lobby.flyWasDisabled": "{PREFIX}Fly wurde §cdeaktiviert§7.",
