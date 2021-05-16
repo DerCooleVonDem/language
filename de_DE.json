@@ -1,5 +1,6 @@
 {
   "name": "Deutsch",
+  "emoji": "\u{E108}",
   "prefix": "§4King§gBuild §8» §7",
   "localeCode": "de_DE",
 
@@ -62,7 +63,7 @@
 
     "message.setupNeedet": "§cEs wurde noch kein Setup für diesen Spielmodus festgelegt.",
     "message.teamWin": "{0}§aTeam {1}{2}§a hat die Runde mit {1}{3}§a Kills gewonnen!",
-    "message.gameHasStarted": "{0}§aDie Runde hat begonnen!{1}§8------------------------{1}§6Team:{1} §8»{2}{1}§6Map:{1} §8»§a{3}{1}§6Schuss Cooldown:{1} §8»§a{4}§7s{1}§8------------------------",
+    "message.gameHasStarted": "{0}§aDie Runde hat begonnen!{1}§8------------------------{1}§6Team:{1} §8» {2}{1}§6Map:{1} §8» §a{3}{1}§6Schuss Cooldown:{1} §8» §a{4}§7s{1}§8------------------------",
     "message.allMapsAreFull": "Es sind zur Zeit alle Maps voll! Bitte warte einen Moment",
     "message.serverIsRestarting": "{PREFIX}§cDieser Server restartet gerade.",
     "message.gameIsNotStarting": "{0}§cDu kannst den Countdown noch nicht verkürzen.",
